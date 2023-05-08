@@ -1,0 +1,10 @@
+.row {
+  display: flex;
+}
+
+.square {
+  width: 200px;
+  height: 200px;
+  background-color: tomato;
+  margin: 1rem;
+}

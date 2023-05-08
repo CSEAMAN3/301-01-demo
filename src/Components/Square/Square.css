@@ -1,0 +1,11 @@
+.square {
+  width: 200px;
+  height: 200px;
+  background-color: tomato;
+  margin: 1rem;
+  display: grid;
+  place-items: center;
+  color: white;
+  font-size: 2rem;
+  font-weight: 700;
+}
